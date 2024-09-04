@@ -1,0 +1,30 @@
+.container {
+    position: relative;
+    width: 400px;
+    height: 400px;
+}
+
+.overlap-div {
+    position: absolute;
+    width: 200px;
+    height: 200px;
+    border-radius: 50%;
+}
+
+.red {
+    background-color: red;
+    top: 100px;
+    left: 100px;
+}
+
+.blue {
+    background-color: blue;
+    top: 100px;
+    left: 150px;
+}
+
+.green {
+    background-color: green;
+    top: 100px;
+    left: 200px;
+}

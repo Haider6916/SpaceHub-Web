@@ -1,0 +1,14 @@
+.myCustomClass .rdrDateRangeWrapper .rdrDayToday {
+  background: #8D55A2;
+}
+
+
+.rdrDayToday .rdrDayNumber span::after {
+  /* Your custom styles for the ::after pseudo-element */
+  background-color: #8D55A2;
+}
+
+.rdrCalendarWrapper {
+  background: #FAFAFA;
+  /* margin-top: 50px; */
+}

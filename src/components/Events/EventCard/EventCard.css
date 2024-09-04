@@ -1,0 +1,12 @@
+.custom-link {
+    text-decoration: none;
+    color: #8D55A2;
+}
+
+.custom-link:visited {
+    color: #8D55A2;
+}
+
+.custom-link:hover {
+    color: #8D55A2;
+}

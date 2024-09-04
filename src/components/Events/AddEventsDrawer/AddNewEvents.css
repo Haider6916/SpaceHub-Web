@@ -1,0 +1,47 @@
+.customDateStyles {
+    height: 56px;
+    font-size: 16px;
+    font-family: 'DM Sans', sans-serif;
+    line-height: 28px;
+    color: #7D7B7C;
+    border: 1px solid #F5F6F4;
+    width: 546px;
+    background-color: #FAFAFA;
+    border-radius: 8px;
+    padding: 10px;
+}
+
+/* .customCalendarStyles {
+    background-color: green;
+} */
+.calendarElement {
+    background-color: #FAFAFA !important;
+}
+
+.react-datepicker__month-container {
+    width: 545px;
+    background-color: #FAFAFA;
+    color: #969eac;
+    font-size: 1rem;
+    font-family: 'Mulish';
+
+    .react-datepicker__month {
+        padding: 1rem 0;
+    }
+
+    .react-datepicker__month-text {
+        display: inline-block;
+        width: 5rem;
+        margin: 0.5rem;
+        font-size: 1rem;
+        padding: 0.2rem;
+
+        &:hover {
+            background-color: #534cea;
+        }
+    }
+}
+
+.css-rwj0s2-MuiTypography-root {
+    display: none;
+}

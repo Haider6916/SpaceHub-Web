@@ -1,0 +1,26 @@
+.IconStyle {
+    fill: #7D7B7C !important;
+}
+
+.PurpleIconStyle {
+    fill: #8D55A2 !important;
+}
+
+.IconStyle:hover {
+    fill: #8D55A2 !important;
+}
+
+.StrokeStyle {
+    fill: #7D7B7C !important;
+    stroke: #7D7B7C !important;
+}
+
+.PurpleStrokeStyle {
+    fill: #8D55A2 !important;
+    stroke: #8D55A2 !important;
+}
+
+.StrokeStyle:hover {
+    fill: #8D55A2 !important;
+    stroke: #8D55A2 !important;
+}

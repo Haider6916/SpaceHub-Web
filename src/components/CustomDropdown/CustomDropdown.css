@@ -1,0 +1,22 @@
+.dropdown {
+    position: relative;
+    display: inline-block;
+}
+
+.custom-dropdown-content {
+
+    display: block;
+    width: 546px;
+    margin-left: 1px;
+    /* margin-top: 2px; */
+    padding: 0px 0px;
+    position: absolute;
+    background-color: #ffffff;
+    box-shadow: 0px 2px 8px rgba(2, 0, 1, 0.1);
+    border-radius: 8px;
+    z-index: 1;
+}
+
+/* .dropdown:hover .dropdown-content {
+    display: block;
+} */
